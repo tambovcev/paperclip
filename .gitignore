@@ -82,3 +82,8 @@ test-results/
 
 # Retained local lifecycle behavior measurements
 .lifecycle-baseline/
+
+# Local Docker settings and runtime data
+/docker/.env
+/data/
+/build.log

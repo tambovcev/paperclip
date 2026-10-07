@@ -1,1 +1,4 @@
 patches/*.patch whitespace=-space-before-tab
+
+# Text files use LF on all platforms
+* text=auto eol=lf
